@@ -1,0 +1,44 @@
+﻿Type of Material,Anode ,Size of Anode,Surface Area of Anode cm2,Inoculum Source/,Power Density mw/m2,Reference Number
+Carbon-based,Carbon cloth,2 cm × 2 cm,4,S. putrefaciens CN32,679.7,104
+Composites,rGO/SnO2/Carbon cloth composite,3 cm × 2 cm,6,E. coli,1624,105
+Carbon-based,Graphene,-,4,E. coli,2850,106
+Composites,r GO/PPy,1 cm × 1.5 cm,,E. coli,1068,73
+Carbon-based,Graphene coating on Carbon cloth,1 cm × 2 cm,4,P. aeruginosa,52.5,107
+Carbon-based,Graphene oxide modification with carbon paper,5 × 3 cm2,,Anaerobic Sludge,368,108
+Composite,Polyaniline (PANI) networks onto graphene nanoribbons (GNRs)-coated on carbon paper (CP/GNRs/PANI),2 cm × 2 cm,4,S. oneidensis MR-1,856,89
+Carbon-based,Graphene nanosheet coating on carbon paper,-,,S. oneidensis MR-1,610,91
+Composites,N-doped graphene nanosheets (NGNS) on carbon cloth,1 cm × 1.5 cm,,E. coli,1008,109
+Carbon-based,Graphene oxide,2 cm × 1cm,,S. oneidensis MR-1,102,90
+Carbon-based,3D-Graphene,0 mm × 5 mm (diameter × thickness),9.41,E. coli,1516,86
+Composites,Graphene/PPy,-,,S. oneidensis MR-1,145,110
+Carbon-based,Carbon cloth,-,6,Wastewater,1292,27
+Carbon-based,Glassy carbon,1.7cm × 1.8 cm,7,Anaerobic sludge,1905,111
+Composite,Graphene powder/ Polytetrafluoroethylene on Carbon cloth,4 × 4 cm2,,Anaerobic pre-treated sludge,0.329,112
+Carbon-based,Carbon brush,2.5 cm × 2.5 cm,16,Sludge,4.25,113
+Composite,TiO2 and r GO composite,1 cm × 1 cm,1,S. putrefaciens CN32,3169,115
+Carbon-based,Graphite brush,3 cm × 2cm,8,Native wastewater,1280,116
+Carbon-based,Carbon felt,2.5 × 2.5 cm,2.5,Anaerobic sludge,784,117
+Composites,Polypyrrole/ graphene oxide,3.0 cm × 2.0 cm × 0.5 cm,,S. oneidensis,1326,118
+Composites,RGO/ Carbon cloth-PANI,1.8 cm × 1.8 cm,,Anaerobic Sludge,1390,119
+Composites,Graphene/Au composite,-,6,S. oneidensis MR-1,508,120
+Carbon-based,Graphene oxide wit CNT,-,,E. coli,434,121
+Carbon-based,Non-wet-proof carbon paper,-,10,Mixed community,188,122
+Carbon-based,Carbon cloth /CNTs,3cm × 6 cm,,Domestic wastewater - acetate,65,123
+Carbon-based,Carbon paper,2.5 cm × 4.5 cm,22.5,Primary clarifier overflow,600,7
+Composites,Graphite plates,-,155,Shewanellaoneidensi,1410,124
+Carbon-based,Carbon mesh,7 cm2,,Preacclimated bacteria from an active MFC,893,125
+Metal,Stainless steel,"20 × 30 cm,",0.12,Marine sediments,23,127
+Carbon-based,Non-wet proofed carbon cloth,-,7,Domestic wastewater,766,128
+Composites,Stainless Steel Mesh coated with Carbon cloth,-,7,Domestic wastewater,1610,129
+Carbon-based,Plain Carbon paper,2.5 × 4.5 cm,,Sediment sludge,33,130
+Composite,Zero-dimension nitrogen-doped carbon dots modification with carbon paper,2.5 cm2 × 2.5 cm2,,Pseudomonas,0.32,136
+Natural Sorce,Compressed milling,0.5 × 3.0,10.99,Anaerobic mix sludge,532,51
+Natural Sorce,Bamboo charcoal,2.4 × 1.57,59.21,Anaerobic mix sludge,1652,52
+Natural Sorce,Loofah sponge,0.5 × 3.0,10.99,Anaerobic sludge,701,53
+Natural Sorce,Loofah sponge/PANI,0.5 × 3.0,10.99,Mix sludge,2590,54
+Natural Sorce,Coconut shell/ sewage sludge,0.5 × 3.0,10.99,Mix sludge,1069,55
+Natural Sorce,Barbed chestnut shell,2.7 × 2.7,91,Mix sludge,759,56
+Natural Sorce,Silk cocoon,,7,Mix sludge,5,42
+Natural Sorce,Chestnut shells,0.3 × 66.4,125.65,Anaerobic mix sludge,850,45
+Natural Sorce,Onion peels,1.0 × 2.0 × 0.5,7,Mix sludge,742,57
+Natural Sorce,Coffee wastes,,1,Domestic waste,3927,48
