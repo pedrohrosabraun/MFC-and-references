@@ -1,0 +1,42 @@
+Type of Material,Anode ,Size of Anode,Surface Area of Anode cm2,Inoculum Source/,Power Density mw/m2,Reference Number
+Natural Source,Loofah Sponge,,,Effluent of MFC,701,151
+Natural Source,Loofah Sponge-PANI,,,Effluent of MFC,1090,151
+Natural Source,N/TiO2-Soofah Sponge,,,Effluent of MFC,2590,118
+Natural Source,Bamboo Charcoal Tube,,,Effluent of MFC,1652,157
+Natural Source,Coconut Shell,,,Effluent of MFC,1069,150
+Natural Source,Compressed milling residue,,,Anaerobic Sludge,532,48
+Natural Source,Chestnut Shells,,,Anaerobic Sludge,850,11
+Natural Source,Chestnut Shells,,,Effluent of MFC,759,16
+Natural Source,Onion,,,Effluent of MFC,742,63
+Metal / Metal Oxide,TiO2-SSM,,7,Effluent of MFC,2870,145
+Metal / Metal Oxide,FeO-Carbon Paper,,12,Strain Breeding,140.5,39
+Metal / Metal Oxide,Fe3O4-Carbon Cloth,,6.25,Active Sludge,728,136
+Metal / Metal Oxide,Fe3C-Graphitinized Carbon,,4,Effluent of MFC,1856,45
+Metal / Metal Oxide,MnO2-Carbon Felt,,7.1,Effluent of MFC,3580,156
+Metal / Metal Oxide,WO3-PANI Carbon Felt,,9,E.Coli,980,125
+Metal / Metal Oxide,NiO/PANI -Carbon Felt,,9,Anaerobic Sludge,1079,166
+Metal / Metal Oxide,Co/CoxOy-Graphite,,6.25,Food Wastewater,576.3,90
+Metal / Metal Oxide,SnO2/rGO-CC,,6,E.Coli,1624,89
+Metal / Metal Oxide,Mo2C-CF,,2,S.Putrefaciens ,1025,173
+Metal / Metal Oxide,Pd-Carbon Cloth,,10,S.Oneidensis,500,102
+Metal / Metal Oxide,Au-Carbon Paper,,25,Anaerobic Granular Sludge,346,37
+Metal / Metal Oxide,Au-MWCNT-Carbon Cloth,,25,Anaerobic Granular Sludge,178,131
+Metal / Metal Oxide,Niobium Manganese  Oxide Carbon Felt,,4,Effluent of MFC,1390,154
+Metal / Metal Oxide,NiWO4/GO-Carbon Cloth,,1,Anaerobic Sludge,1458,33
+Modified Polymer,PANI-Carbon Cloth,,4,Effluent of MFC,567,160
+Modified Polymer,Tartaric Acid PANI Carbon Cloth,,2,S.Oneidensis,490,68
+Modified Polymer,PANI-SSP,,3.5,4%LL,780,108
+Modified Polymer,PANI-SSW,,7.5,4%LL,2880,109
+Modified Polymer,Nano Floewer - PANI- Carbon Cloth,,2,S.Oneidensis,388.6,76
+Modified Polymer,PANI-Graphite Carbon Cloth,,7,Effluent of MFC,884,47
+Modified Polymer,Polypyrrole-SSW,,7.5,4%LL,1870,109
+Modified Polymer,Polypyrrole-SS,,4,Anaerobic Sludge,1191,98
+Modified Polymer,Polypyrrole-MnO2-Stainless Steel,,50,Anaerobic Sludge,440,97
+Modified Polymer,Polypyrrole-CNT-Carbon Fiber,,-,Wastewater,1877,164
+Modified Polymer,CPH/AQS/GF,,16,Effluent of MFC,1920,119
+Modified Polymer,PEDOT-GF,,16,Anaerobic Sludge,1620,57
+Modified Polymer,PEDOT-CC,,7.06,S.Ioihica,140,75
+Modified Polymer,PTh-GF,,3.5,S.Putrefaciens ,800,112
+Modified Polymer,PDA-SSM,,16,Domestic Sewage,803,24
+Modified Polymer,PDA-MGCF,,4,S.Putrefaciens ,1735,55
+Modified Polymer,PDA-CCF,,4,Effluent of MFC,931,155
