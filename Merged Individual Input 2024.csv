@@ -1,0 +1,7 @@
+,Type of Material,Anode ,Size of Anode,Surface Area of Anode cm2,Inoculum Source/,Power Density mw/m2,Reference Number,Title,DOI,Year
+1,Ceramic,Tape-cast PDC,,25.3,Geobacter spp,1160,,Impact of Surface Properties of Porous SiOC-Based,10.1002/celc.20200156,2021
+2,3DP Ceramic,3DP PDC,,12.33,Geobacter spp,980,,"Influence of the 3D architecture and surface roughness of SiOC anodes on bioelectrochemical system performance: a comparative study of freeze-cast, 3D-printed, and tape-cast materials with uniform composition",10.1007/s40243-023-00253-4,2024
+3,3DP Metal,3DP Copper,,6,Shewanella oneidensis ,6.45,,Application of 3D Printed Porous Copper Anode in Microbial Fuel Cells,10.3389/fenrg.2018.00050,2018
+4,3DP Carbon-based,3DP Porous Carbon,,6,Shewanella oneidensis ,233,,3D printed porous carbon anode for enhanced power generation in,10.1016/j.nanoen.2017.11.070,2018
+5,3DP Composite,3DP Stainless Steel coated with carbon nanoparticles,,,Domestic Wastewater,2142,,"Three-dimensional macroporous anodes based on stainless steel fiber
+felt for high-performance microbial fuel cells",10.1016/j.jpowsour.2014.02.035,2014
